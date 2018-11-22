@@ -1,2 +1,3 @@
-# Algorithm
-code
+# README
+                                                            《各类算法学习提纲》
+ 一、排序算法
